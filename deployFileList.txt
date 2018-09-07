@@ -1,0 +1,8 @@
+#\builderbrm.xadl
+#\default_typedef.xml
+#\globalvars.xml
+#\Common.xtheme
+#\common\frame\frm_login.xfdl
+#\nexacro14lib\component\builderbrmLib\builderbrmComCode.js
+#\nexacro14lib\framework\BasicObjs.js
+#\images\btn_del.png

@@ -1,0 +1,3 @@
+/B2B_BRM/web.war/ux/b2bgerp_src/service/productTypePopUp.xfdl
+/B2B_BRM/web.war/ux/b2bgerp_src/service/searchCountryPopupG.xfdl
+/B2B_BRM/web.war/ux/b2bgerp_src/signage/sgCiqMstSpvnDet.xfdl
